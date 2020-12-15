@@ -44,4 +44,4 @@ Please consult [CONTIRBUTING](./CONTRIBUTING.md) for guidelines on contributing 
 
 # Author
 
-**is-website-vulnerable** © [Liran Tal](https://github.com/lirantal), Released under the [Apache-2.0](./LICENSE) License.
+**is-website-vulnerable** ©  [Liran Tal](https://github.com/lirantal) & [Lupael](https://github.com/lupael) Released under the [Apache-2.0](./LICENSE) License.
